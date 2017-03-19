@@ -1,3 +1,4 @@
 name: Blog - Hassan Salehe Matar
 markdown: kramdown
 theme: minima
+permalink: /blog/:year/:month/:day/:title
