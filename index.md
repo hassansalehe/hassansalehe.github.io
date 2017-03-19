@@ -2,7 +2,23 @@
 layout: default
 title: Blog - Hassan Salehe Matar
 ---
-<div class="blurb">
-	<h1>Hi there, I'm Hassan Salehe Matar!</h1>
-	<p> More to come later. </p>
-</div>
+
+### Bio
+
+I am Hassan Salehe Matar and a Ph.D student of Computer Sciences and 
+Engineering at Koc University in Istanbul. In my Ph.D. studies I am 
+lucky to be advised by [Dr. Serdar Tasiran](https://home.ku.edu.tr/~stasiran/) 
+and [Dr. Didem Unat](https://home.ku.edu.tr/~dunat/).  My research focuses 
+on designing and improving algorithms and tools for detecting concurrency 
+errors in parallel programs.
+
+I previously worked on improving performance of race detection algorithms 
+using Intel® TSX and was later interned at Intel in Munich for 1.5 years.
+
+My projects are hosted on [GitHub] but you can read more about them [here]projects).
+
+You can access my publications [here](publications).
+
+My resume can be accessed [using this link](cv).
+
+
