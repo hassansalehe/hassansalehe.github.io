@@ -1,7 +1,7 @@
 Publications
 
 ### **_2016_**
-H. S. Matar, E. Mutlu, S. Tasiran, and D. Unat. Output nondeterminism detection for programming models combining dataflow with shared memory. *Parallel Computing - Elsevier Journal* **__(Submitted)__**.
+H. S. Matar, E. Mutlu, S. Tasiran, and D. Unat. Output nondeterminism detection for programming models combining dataflow with shared memory. *Parallel Computing - Elsevier Journal* **_(Submitted)_**.
 
 
 ### **_2014_**
