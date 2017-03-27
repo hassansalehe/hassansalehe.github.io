@@ -1,7 +1,7 @@
 I compile a list of media posts which mentioned or talked about me from TVs, newspapers, blogs,
 or any publications.
 
-#### A surprese pose with the Mayor of Sariyer, 2016
+#### A surprise pose with the Mayor of Sariyer, 2016
 I was walking along central Sariyer and the mayor was passed by. Link: [http://www.sariyerposta.com/surpriz-poz/](http://www.sariyerposta.com/surpriz-poz/)
 
 
