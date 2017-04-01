@@ -1,8 +1,13 @@
-He I highlight some of the projects I have been working or had worked on.
+---
+layout: default
+title: Projects - Hassan Salehe Matar
+---
+
+Here I highlight some of the projects I have been working or had worked on.
 
 
 ### EmbedSanitizer
-
+An extension to ThreadSanitizer for detecting races in embedded systems software.
 
 ### ADFinspec
 Nondeterminism detection tool for shared memory dataflow programs.

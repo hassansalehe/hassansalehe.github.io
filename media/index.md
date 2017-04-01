@@ -1,3 +1,8 @@
+---
+layout: default
+title: Media - Hassan Salehe Matar
+---
+
 I compile a list of media posts which mentioned or talked about me from TVs, newspapers, blogs,
 or any publications.
 
@@ -10,7 +15,7 @@ The story covers information about inauguration of our research center at Koc Un
 
 
 #### From high school, 2006
-This link talks about my high school success where I was ranked 5th in 
+This link talks about my high school success where I was ranked 5th in
 the Tanzanian national high school examinations(ACSEE) in 2006.
 Link: [http://allafrica.com/stories/200605080588.html](http://allafrica.com/stories/200605080588.html)
 

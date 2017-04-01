@@ -1,4 +1,7 @@
-Publications
+---
+layout: default
+title: Publications - Hassan Salehe Matar
+---
 
 ### **_2016_**
 H. S. Matar, E. Mutlu, S. Tasiran, and D. Unat. Output nondeterminism detection for programming models combining dataflow with shared memory. *Parallel Computing - Elsevier Journal* **_(Submitted)_**.
