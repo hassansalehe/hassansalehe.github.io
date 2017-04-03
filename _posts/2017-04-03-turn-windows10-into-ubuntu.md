@@ -23,6 +23,14 @@ Once you turn the Ubuntu feature, go to step 2.
   * I have compiled a small list of tools you can install on your Ubuntu account to 
     make a full development environment.
     ```bash
-  
+    sudo apt-get install git
+    sudo apt-get install -y subversion
+    sudo apt-get install -y ruby-full
+    sudo apt-get install -y libdwarf-dev
+    sudo apt -y install duff dos2unix ccrypt apcalc sfftw-dev # sfftw: discrete fourier transform
+    sudo apt-get install -y lib32z1 lib32ncurses5
+    sudo apt-get install -y flex bison build-essential csh libxaw7-dev
+    sudo apt-get install -y qemu # to run ARM code: qemu-arm <your_binary>
+    sudo apt-get install -y unace rar unrar zip unzip p7zip-full p7zip-rar sharutils 
     ```
-  4. [Add bash/terminal to select from right-click context.](http://www.windowscentral.com/how-launch-bash-shell-right-click-context-menu-windows-10)
+  4. [Add bash/terminal to select from right-click context.](http://www.windowscentral.com/how-launch-bash-shell-right-click-context-menu-windows-10), [2](https://blog.cyplo.net/posts/2016/07/06/terminal-emulator-windows-10-bash.html)
