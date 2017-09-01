@@ -9,7 +9,7 @@ I'm Hassan Salehe Matar and I'm a Ph.D student of Computer Sciences and
 Engineering at Koc University in Istanbul. In my Ph.D. studies, I am lucky  
 to be advised by [Assoc. Prof. Serdar Tasiran](https://www.linkedin.com/in/serdar-tasiran-7841087)
 and [Assist. Prof. Didem Unat](https://home.ku.edu.tr/~dunat/).  
-My research focuses on designing and improving algorithms and tools for 
+My research focuses on designing and improving algorithms and tools for  
 detecting concurrency errors in parallel programs.
 
 I previously worked on improving performance of race detection algorithms  
