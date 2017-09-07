@@ -15,8 +15,7 @@ detecting concurrency errors in parallel programs.
 I previously worked on improving performance of race detection algorithms  
 using Intel® TSX, and I was later interned at Intel in Munich for 1.5 years.
 
-My projects are hosted on [GitHub](https://github.com/hassansalehe) but  
-you can read more about them [here](projects).
+My projects are hosted on [GitHub](https://github.com/hassansalehe) but you can read more about them [here](projects).
 
 You can access my publications [here](publications).
 
