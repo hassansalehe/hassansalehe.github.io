@@ -4,7 +4,7 @@ title: Resume - Hassan Salehe Matar
 ---
 
 Below is an extended version of my resume.
-Please contact me for a shorter and more compact resume.
+Please contact me for a shorter and more compact version.
 
 ---
 ### Contact details
