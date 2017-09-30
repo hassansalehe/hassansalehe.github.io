@@ -58,16 +58,18 @@ general election campaigns.
 
 ---
 ### Project Experience
-* ADFinspec (2016)
+* [EmbedSanitizer (2017)](https://github.com/hassansalehe/embedsanitizer)
+An extension to ThreadSanitizer for detecting races in embedded systems software.
+* [DFinspec (2016)](https://github.com/hassansalehe/DFinspec)
   * Nondeterminism detection tool for shared memory dataflow programs. _C/C++, LLVM_
 
-* PH7 (2016)
+* [PH7 (2016)](https://github.com/hassansalehe/PH7)
   * Proof of concept virtual museum developed purely on OpenGL and Glut. _C++, Eclipse_
 
-* TxSDELogAnalyzer(2014)
+* [TxSDELogAnalyzer (2014)](https://software.intel.com/en-us/articles/analyzing-intel-sdes-tsx-related-log-data-for-capacity-aborts)
   * Parser of huge log data for performance analysis of TSX bottlenecks. _Python_
 
-* BioGuide (2010)
+* [BioGuide (2010)](http://2011.igem.org/wiki/images/d/db/BioGuide.pdf)
   * Tool for automatic construction of BioBricks in synthetic biology. _Java, SQL, HTML_
 
 ### Research Experience
@@ -109,13 +111,17 @@ students on use of Software Engineering principles.
 
 ---
 ### Research Publications
-* Hassan Salehe Matar, Serdar Tasiran and Didem Unat. EmbedSanitizer: Runtime Race Detection Tool for 32-bit Embedded ARM. *The 17th International Conference on Runtime Verification*, September 13-16, Seattle, USA. **_2017_**
+* Hassan Salehe Matar, Serdar Tasiran and Didem Unat. [EmbedSanitizer: Runtime Race Detection Tool for 32-bit Embedded ARM](https://goo.gl/uJJCyd). *The 17th International Conference on Runtime Verification*, September 13-16, Seattle, USA. **_2017_**
 
 * H. S. Matar, E. Mutlu, S. Tasiran, and D. Unat. Output nondeterminism detection for programming models combining dataflow with shared memory. *Parallel Computing - Elsevier Journal*, **_2016_** **_(Submitted)_**.
 
-* Hassan Salehe Matar, Ismail Kuru, Serdar Tasiran, and Roman Dementiev. Accelerating precise race detection using commercially-available hardware transactional memory support. *In Workshop on Determinism and Correctness in Parallel Programming (WoDet)*, Salt Lake City, Utah, USA. **_2014_**
+* Hassan Salehe Matar, Ismail Kuru, Serdar Tasiran, and Roman Dementiev.
+[Accelerating precise race detection using commercially-available hardware transactional memory support.](https://goo.gl/tZ722o)
+*In Workshop on Determinism and Correctness in Parallel Programming (WoDet)*, Salt Lake City, Utah, USA. **_2014_**
 
-* Ismail Kuru, Hassan Salehe Matar, Adrián Cristal, Gokcen Kestor, and Osman Unsal. PaRV: Parallelizing Runtime Detection and Prevention of Concurrency Errors, *volume 7687 of Lecture Notes in Computer Science.* Springer Berlin Heidelberg. **_2013_**
+* Ismail Kuru, Hassan Salehe Matar, Adrián Cristal, Gokcen Kestor, and Osman Unsal.
+[PaRV: Parallelizing Runtime Detection and Prevention of Concurrency Errors](https://goo.gl/AWtQ3E),
+*volume 7687 of Lecture Notes in Computer Science.* Springer Berlin Heidelberg. **_2013_**
 
 ---
 ### Honors & Awards
