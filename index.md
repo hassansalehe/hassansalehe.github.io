@@ -21,6 +21,6 @@ My projects are hosted on [GitHub](https://github.com/hassansalehe) but you can 
 
 You can access my publications [here](publications).
 
-My resume can be accessed [using this link](cv).
+My resume can be accessed [using this link](resume).
 
 My contact is `hassansalehe <at> gmail <dot> com`
