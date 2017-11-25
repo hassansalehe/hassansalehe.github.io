@@ -111,9 +111,9 @@ students on use of Software Engineering principles.
 
 ---
 ### Research Publications
-* Hassan Salehe Matar, Serdar Tasiran and Didem Unat. [EmbedSanitizer: Runtime Race Detection Tool for 32-bit Embedded ARM](https://goo.gl/uJJCyd). *The 17th International Conference on Runtime Verification*, September 13-16, Seattle, USA. **_2017_**
+* H. S. Matar, E. Mutlu, S. Tasiran, and D. Unat. [Output nondeterminism detection for programming models combining dataflow with shared memory](https://doi.org/10.1016/j.parco.2017.11.008). *Parallel Computing - Elsevier Journal*, **_2017_**.
 
-* H. S. Matar, E. Mutlu, S. Tasiran, and D. Unat. Output nondeterminism detection for programming models combining dataflow with shared memory. *Parallel Computing - Elsevier Journal*, **_2016_** **_(Submitted)_**.
+* Hassan Salehe Matar, Serdar Tasiran and Didem Unat. [EmbedSanitizer: Runtime Race Detection Tool for 32-bit Embedded ARM](https://goo.gl/uJJCyd). *The 17th International Conference on Runtime Verification*, September 13-16, Seattle, USA. **_2017_**
 
 * Hassan Salehe Matar, Ismail Kuru, Serdar Tasiran, and Roman Dementiev.
 [Accelerating precise race detection using commercially-available hardware transactional memory support.](https://goo.gl/tZ722o)
