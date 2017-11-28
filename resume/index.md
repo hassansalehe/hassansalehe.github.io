@@ -59,7 +59,8 @@ general election campaigns.
 ---
 ### Project Experience
 * [EmbedSanitizer (2017)](https://github.com/hassansalehe/embedsanitizer)
-An extension to ThreadSanitizer for detecting races in embedded systems software.
+  * An extension to ThreadSanitizer for detecting races in embedded systems software.
+  
 * [DFinspec (2016)](https://github.com/hassansalehe/DFinspec)
   * Nondeterminism detection tool for shared memory dataflow programs. _C/C++, LLVM_
 
@@ -166,7 +167,7 @@ students on use of Software Engineering principles.
 ---
 ### Interests / Hobbies
 * Traveling & Tourism
-  * Visited Turkey, UK, USA, Germany, France, Spain, Italy, Kenya, and Oman in the last 10 years.
+  * Visited Turkey, Netherlands, UK, USA, Germany, France, Spain, Italy, Kenya, and Oman in the last 10 years.
 
 * Photography
   * Was amateur photographer in high school. Still collects images of plants and buildings.
