@@ -8,9 +8,20 @@ I updated my Chromium source code in my machine and `gclient` was failing to syn
 [[1](https://bugs.chromium.org/p/chromium/issues/detail?id=506040)], 
 [[2](https://bugs.chromium.org/p/chromium/issues/detail?id=584742)], and
 [[3](https://groups.google.com/a/chromium.org/forum/#!topic/chromium-dev/b68HNfnWfZQ)].
-
 It seems that I messed around with the Chromium project and I ended up detaching its git repositories from their HEADs.
 ``` bash
+$ gclient sync
+Syncing projects: 100% (87/87) src/v8                                      
+
+src/v8 (ERROR)
+----------------------------------------
+[0:00:04] Started.
+----------------------------------------
+Error: 78> 
+78> ____ src/v8 at c5efc5092fabb0a45351c7b0031b14ed07d3c696
+78> 	You have unstaged changes.
+78> 	Please commit, stash, or reset.
+
 $ git status
 You are in 'detached HEAD' state...
 ```
