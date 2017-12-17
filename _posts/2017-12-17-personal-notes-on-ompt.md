@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Personal Notes on OpenMP's OMPT"
+date: 17-12-2017
+comments: true
+---
 I have been implementing a correctness tool for OpenMP tasks and I have 
 been keen to look at the  [OMPT specification
 ](https://github.com/OpenMPToolsInterface/OMPT-Technical-Report/blob/master/ompt-tr.pdf). 
