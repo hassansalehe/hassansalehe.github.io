@@ -4,7 +4,9 @@ been keen to look at the  [OMPT specification
 Below is a short summary of features from the specification which are relevant 
 to OpenMP tasks.
 
-Note: We can actually treat every OpenMP implicit task as a task.
+Note: We can actually treat every 
+[OpenMP implicit](https://docs.oracle.com/cd/E19205-01/820-7883/6nj43o69j/index.html) 
+task as a task.
 
 ## 1. There is a callback for a task create 
  Envoked when a task or target construct is encountered
