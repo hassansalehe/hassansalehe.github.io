@@ -1,6 +1,8 @@
 I have been implementing a correctness tool for OpenMP tasks and I have 
-been keen to look at the  OMPT specification. Below is a short summary 
-of features from the specification which are relevant to OpenMP tasks.
+been keen to look at the  [OMPT specification
+](https://github.com/OpenMPToolsInterface/OMPT-Technical-Report/blob/master/ompt-tr.pdf). 
+Below is a short summary of features from the specification which are relevant 
+to OpenMP tasks.
 
 Note: We can actually treat every OpenMP implicit task as a task.
 
