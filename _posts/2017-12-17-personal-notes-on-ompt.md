@@ -8,7 +8,8 @@ I have been implementing a correctness tool for OpenMP tasks and I have
 been keen to look at the  [OMPT specification
 ](https://github.com/OpenMPToolsInterface/OMPT-Technical-Report/blob/master/ompt-tr.pdf). 
 Below is a short summary of features from the specification which are relevant 
-to OpenMP tasks.
+to OpenMP tasks. Since I have borrowed much of the text from the specification, 
+credit goes to its authors.
 
 Note: We can actually treat every 
 [OpenMP implicit](https://docs.oracle.com/cd/E19205-01/820-7883/6nj43o69j/index.html) 
