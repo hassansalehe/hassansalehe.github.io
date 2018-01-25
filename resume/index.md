@@ -39,7 +39,7 @@ Koc University, Istanbul, Turkey _2011 - 2013_
 ---
 ### Work Experience
 * Application Engineer Intern, Intel Corporation, Munich, Germany, _10/2013 - 01/2015_
-  * Integrated Transactional Synchronization Extensions (Intel <sup>R</sup>
+  * Worked on integrating Transactional Synchronization Extensions (Intel <sup>R</sup>
 TSX) into SAP<sup>R</sup>
 HANA, [achieving 2X speedup.](http://www.intel.com/content/www/us/en/big-data/sap-hana-real-time-analytics-solution-brief.html)
   * Fostered Intel<sup>R</sup> TSX performance & analysis features in Intel Developer tools by feedback & evaluations.
