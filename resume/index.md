@@ -19,22 +19,17 @@ Please contact me for a shorter and more compact version.
 ---
 ### Education
 * Ph.D. in Computer Science and Engineering,
-Koc University, Istanbul, Turkey _2013 - Present_
-<!--  * GPA: 3.77/4.00-->
-  * Thesis title: Concurrency error detection for shared memory task-based Dataflow programs.
-  * Supervisors: Assoc. Prof. Serdar Tasiran & Asst. Prof. Didem Unat
-
+Koc University, Istanbul, Turkey _2013 - Present_ <!--  * GPA: 3.77/4.00-->
+   * Thesis title: Concurrency error detection for shared memory task-based Dataflow programs.
+   * Supervisors: Assoc. Prof. Serdar Tasiran & Asst. Prof. Didem Unat
 * MSc. in Computer Science and Engineering,
-Koc University, Istanbul, Turkey _2011 - 2013_
-<!--  * GPA: 3.80/4.00-->
-  * Relevant coursework: COMP 589 - Software Reliability: Specification, Testing and Verification.
-  * Thesis title: Detection and recovery from concurrency errors using transactional memory techniques.
-
+Koc University, Istanbul, Turkey _2011 - 2013_  <!--  * GPA: 3.80/4.00-->
+   * Relevant coursework: COMP 589 - Software Reliability: Specification, Testing and Verification.
+   * Thesis title: Detection and recovery from concurrency errors using transactional memory techniques.
 * BS. in Computer Engineering, Middle East Technical University (METU), Ankara, Turkey, _2007 - 2011_
-  * GPA: 3.56/4.00, graduated with high honor
-
+   * GPA: 3.56/4.00, graduated with high honor
 * High School Education (ACSEE), Ilboru Secondary School, Arusha, Tanzania, _2004 - 2006_
-  * Ranked 5<sup>th</sup> among 26,836 candidates on High School National Examinations.
+   * Ranked 5<sup>th</sup> among 26,836 candidates on High School National Examinations.
 
 ---
 ### Work Experience
