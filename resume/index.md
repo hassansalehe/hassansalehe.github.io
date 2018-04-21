@@ -112,7 +112,7 @@ students on use of Software Engineering principles.
 
 ---
 ### Research Publications
-* H. S. Matar, E. Mutlu, S. Tasiran, and D. Unat. [Output nondeterminism detection for programming models combining dataflow with shared memory](https://doi.org/10.1016/j.parco.2017.11.008). *Parallel Computing - Elsevier Journal*, **_2017_**.
+* H. S. Matar, E. Mutlu, S. Tasiran, and D. Unat. [Output nondeterminism detection for programming models combining dataflow with shared memory](https://doi.org/10.1016/j.parco.2017.11.008). *Parallel Computing - Elsevier Journal*, **_2018_**.
 
 * Hassan Salehe Matar, Serdar Tasiran and Didem Unat. [EmbedSanitizer: Runtime Race Detection Tool for 32-bit Embedded ARM](https://goo.gl/uJJCyd). *The 17th International Conference on Runtime Verification*, September 13-16, Seattle, USA. **_2017_**
 
