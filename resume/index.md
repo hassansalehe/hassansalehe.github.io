@@ -54,7 +54,7 @@ general election campaigns.
 ---
 ### Project Experience
 * [EmbedSanitizer (2017)](https://github.com/hassansalehe/embedsanitizer)
-  * An extension to ThreadSanitizer for detecting races in embedded systems software.
+  * An extension to ThreadSanitizer for detecting races in 32-bit ARM embedded systems software.
   
 * [DFinspec (2016)](https://github.com/hassansalehe/DFinspec)
   * Nondeterminism detection tool for shared memory dataflow programs. _C/C++, LLVM_
@@ -107,6 +107,9 @@ students on use of Software Engineering principles.
 
 ---
 ### Research Publications
+
+* Hassan Salehe Matar and Didem Unat. [Runtime Determinacy Race Detection for OpenMP Tasks](https://europar2018.org/program-tbd) (to appear). *24th International European Conference on Parallel and Distributed Computing*, August 29-31, **_2018_**, Turin, Italy.
+
 * H. S. Matar, E. Mutlu, S. Tasiran, and D. Unat. [Output nondeterminism detection for programming models combining dataflow with shared memory](https://doi.org/10.1016/j.parco.2017.11.008). *Parallel Computing - Elsevier Journal*, **_2018_**.
 
 * Hassan Salehe Matar, Serdar Tasiran and Didem Unat. [EmbedSanitizer: Runtime Race Detection Tool for 32-bit Embedded ARM](https://goo.gl/uJJCyd). *The 17th International Conference on Runtime Verification*, September 13-16, Seattle, USA. **_2017_**
