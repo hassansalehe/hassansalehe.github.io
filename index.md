@@ -10,8 +10,8 @@ title: Home - Hassan Salehe Matar
 I'm Hassan Salehe Matar and I'm a Ph.D student of Computer Sciences and  
 Engineering at Koc University in Istanbul. I have been lucky to be advised  
 by [Assist. Prof. Didem Unat](http://home.ku.edu.tr/~dunat/) in my Ph.D. studies.
-My research focuses on designing and improving algorithms and tools for  
-detecting concurrency errors in parallel programs.
+My research focuses on  
+designing and improving algorithms and tools for detecting concurrency errors in parallel programs.
 
 I previously worked on improving performance of race detection algorithms  
 using Intel® TSX, and I was later interned at Intel in Munich for 1.5 years.
