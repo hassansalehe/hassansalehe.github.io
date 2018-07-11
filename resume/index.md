@@ -9,7 +9,7 @@ Please contact me for a shorter and more compact version.
 ---
 ### Contact details
 * **Name:** Hassan Salehe Matar
-* **Title:** PhD Student Résumé
+* **Title:** Software Engineer Résumé
 * **Address:** Koc University, Rumeli Feneri Yolu, 34450 Sariyer, Istanbul, Turkey
 <!--* **Phone:** +90 553 032 84 18-->
 * **Email** hassansalehe@gmail.com
@@ -19,9 +19,9 @@ Please contact me for a shorter and more compact version.
 ---
 ### Education
 * Ph.D. in Computer Science and Engineering,
-Koc University, Istanbul, Turkey _2013 - Present_ <!--  * GPA: 3.77/4.00-->
-   * Thesis title: Concurrency error detection for shared memory task-based Dataflow programs.
-   * Supervisors: Assoc. Prof. Serdar Tasiran & Asst. Prof. Didem Unat
+Koc University, Istanbul, Turkey _2013 - 2018_ <!--  * GPA: 3.77/4.00-->
+   * Thesis title: Runtime Race Detection for Shared Memory Programming Models.
+   * Supervisors: Asst. Prof. Didem Unat
 * MSc. in Computer Science and Engineering,
 Koc University, Istanbul, Turkey _2011 - 2013_  <!--  * GPA: 3.80/4.00-->
    * Relevant coursework: COMP 589 - Software Reliability: Specification, Testing and Verification.
@@ -53,6 +53,9 @@ general election campaigns.
 
 ---
 ### Project Experience
+* [TaskSanitizer](https://github.com/hassansalehe/TaskSanitizer)
+  * A tool for detecting determinacy races in OpenMP task applications. 
+
 * [EmbedSanitizer (2017)](https://github.com/hassansalehe/embedsanitizer)
   * An extension to ThreadSanitizer for detecting races in 32-bit ARM embedded systems software.
   
@@ -69,13 +72,13 @@ general election campaigns.
   * Tool for automatic construction of BioBricks in synthetic biology. _Java, SQL, HTML_
 
 ### Research Experience
-* Research Assistant,Koc University Research Center for Multicore Software, Istanbul, Turkey, _09/2011 - Present_
+* Research Assistant,Koc University Research Center for Multicore Software, Istanbul, Turkey, _09/2011 - 06/2018_
   *  Developed a C/C++ concurrency error detection tool for multithreading with 40% less overhead using Transactional Memory (e.g; Intel TSX).
       * Resulting in 2 publications.
   *  Proposed a novel algorithm and a tool to detect unintended nondeterminism in dataflow applications.
 
 ### Teaching Experience
-* Teaching Assistant, Kocc University - Department of Computer Engineering, Istanbul, Turkey, _09/2011 - Present_
+* Teaching Assistant, Koc University - Department of Computer Engineering, Istanbul, Turkey, _09/2011 - 06/2018_
   *  Comp132 - Advanced Programming(C, C++, Java): preparing assignments, labs, and grading.
   *  Comp302 - Software Engineering: supervising
 students on use of Software Engineering principles.
@@ -108,7 +111,7 @@ students on use of Software Engineering principles.
 ---
 ### Research Publications
 
-* Hassan Salehe Matar and Didem Unat. [Runtime Determinacy Race Detection for OpenMP Tasks](https://europar2018.org/program-tbd) (to appear). *24th International European Conference on Parallel and Distributed Computing*, August 29-31, **_2018_**, Turin, Italy.
+* Hassan Salehe Matar and Didem Unat. [Runtime Determinacy Race Detection for OpenMP Tasks](https://europar2018.org/program-tbd) (to appear). *24th International European Conference on Parallel and Distributed Computing (Euro-Par)*, August 29-31, **_2018_**, Turin, Italy.
 
 * H. S. Matar, E. Mutlu, S. Tasiran, and D. Unat. [Output nondeterminism detection for programming models combining dataflow with shared memory](https://doi.org/10.1016/j.parco.2017.11.008). *Parallel Computing - Elsevier Journal*, **_2018_**.
 
