@@ -5,6 +5,8 @@ title: Projects - Hassan Salehe Matar
 
 Here I highlight some of the projects I have been working or had worked on.
 
+### [TaskSanitizer](https://github.com/hassansalehe/TaskSanitizer)
+A tool for detecting determinacy races in OpenMP task applications. 
 
 ### [EmbedSanitizer](https://github.com/hassansalehe/embedsanitizer)
 An extension to ThreadSanitizer for detecting races in embedded systems software.
