@@ -21,7 +21,7 @@ Please contact me for a shorter and more compact version.
 * Ph.D. in Computer Science and Engineering,
 Koc University, Istanbul, Turkey _2013 - 2018_ <!--  * GPA: 3.77/4.00-->
    * Thesis title: Runtime Race Detection for Shared Memory Programming Models.
-   * Supervisors: Asst. Prof. Didem Unat
+   * Advisor: Asst. Prof. Didem Unat
 * MSc. in Computer Science and Engineering,
 Koc University, Istanbul, Turkey _2011 - 2013_  <!--  * GPA: 3.80/4.00-->
    * Relevant coursework: COMP 589 - Software Reliability: Specification, Testing and Verification.
@@ -53,7 +53,7 @@ general election campaigns.
 
 ---
 ### Project Experience
-* [TaskSanitizer](https://github.com/hassansalehe/TaskSanitizer)
+* [TaskSanitizer (2018)](https://github.com/hassansalehe/TaskSanitizer)
   * A tool for detecting determinacy races in OpenMP task applications. 
 
 * [EmbedSanitizer (2017)](https://github.com/hassansalehe/embedsanitizer)
