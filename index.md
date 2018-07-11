@@ -5,7 +5,7 @@ title: Home - Hassan Salehe Matar
 
 ### Bio
 
-![myPhoto](/myPhoto.jpg){:width="250px"}
+![myPhoto](/myPhoto.jpg)
 
 I'm Hassan Salehe Matar and I'm a recent Ph.D graduate of Computer Sciences and  
 Engineering from Koc University in Istanbul. During my PhD studies, I had been  
