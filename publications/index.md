@@ -4,7 +4,7 @@ title: Publications - Hassan Salehe Matar
 ---
 
 #### **_2018_**
-* Hassan Salehe Matar and Didem Unat. [Runtime Determinacy Race Detection for OpenMP Tasks](https://europar2018.org/program-tbd) (to appear). *24th International European Conference on Parallel and Distributed Computing (Euro-Par)*, Springer, August 29-31, Turin, Italy.
+* Hassan Salehe Matar and Didem Unat. [Runtime Determinacy Race Detection for OpenMP Tasks](https://link.springer.com/chapter/10.1007/978-3-319-96983-1_3). *24th International European Conference on Parallel and Distributed Computing (Euro-Par)*, Springer, August 29-31, Turin, Italy.
 
 * H. S. Matar, E. Mutlu, S. Tasiran, and D. Unat. [Output nondeterminism detection for programming models combining dataflow with shared memory](https://doi.org/10.1016/j.parco.2017.11.008). *Parallel Computing - Elsevier Journal (PARCO)*.
 
