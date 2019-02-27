@@ -52,7 +52,7 @@ general election campaigns.
     * The tool won a _Silver Award_ at _iGEM 2010_ competition at MIT in USA.
 
 ---
-### Project Experience
+### Open-source Project Experience
 * [TaskSanitizer (2018)](https://github.com/hassansalehe/TaskSanitizer)
   * A tool for detecting determinacy races in OpenMP task applications. 
 
