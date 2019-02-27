@@ -16,11 +16,11 @@ and improving algorithms and tools for detecting concurrency errors in parallel 
 I previously worked on improving performance of race detection algorithms  
 using Intel® TSX, and I was later interned at Intel in Munich for 1.5 years.
 
-My projects are hosted on [GitHub](https://github.com/hassansalehe) but you can
+My Open-source projects are hosted on [GitHub](https://github.com/hassansalehe) but you can
 read more about them [here](projects).
 
 You can access my publications [here](publications).
 
-My resume can be accessed [using this link](resume).
+My resume is in [this link](resume).
 
 My contact is `hassansalehe <at> gmail <dot> com`
