@@ -10,7 +10,7 @@ Please contact me for a shorter and more compact version.
 ### Contact details
 * **Name:** Hassan Salehe Matar
 * **Title:** Software Engineer Résumé
-* **Address:** Koc University, Rumeli Feneri Yolu, 34450 Sariyer, Istanbul, Turkey
+<!-- * **Address:** Koc University, Rumeli Feneri Yolu, 34450 Sariyer, Istanbul, Turkey -->
 <!--* **Phone:** +90 553 032 84 18-->
 * **Email** hassansalehe@gmail.com
 * **SkypeName:** hassansalehe
