@@ -15,11 +15,11 @@ using Intel® TSX, and I was later interned at Intel in Munich for 1.5 years.
 My Open-source projects are hosted on [GitHub](https://github.com/hassansalehe) but you can
 read more about them [here](projects).
 
-Besides, I have a Ph.D of Computer Sciences and  
-Engineering from Koc University in Istanbul. During my PhD studies, I had been  
-lucky to be advised by [Assist. Prof. Didem Unat](http://home.ku.edu.tr/~dunat/).
+Besides, I have a Ph.D of Computer Sciences and Engineering from  
+Koc University in Istanbul. During my PhD studies, I had been lucky  
+to be advised by [Assist. Prof. Didem Unat](http://home.ku.edu.tr/~dunat/).
 My research focused on designing  
-and improving algorithms and tools for detecting concurrency errors in parallel programs. 
+and improving algorithms and tools for detecting concurrency errors in parallel programs.   
 You can access my publications [here](publications).
 
 My resume is in [this link](resume).
