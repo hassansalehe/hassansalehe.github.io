@@ -33,6 +33,11 @@ Koc University, Istanbul, Turkey _2011 - 2013_  <!--  * GPA: 3.80/4.00-->
 
 ---
 ### Work Experience
+* Software Design Engineer 2, ASML Netherlands N.V., Veldhoven, Netherlands, _07/2018 - Present_
+    * Designs and implements software for metrology functionalities of $100-million lithography machines.
+    * Appointed local champion to address issues and provide guidelines on GoogleTest/GoogleMock unit-testing.
+    * Volunteered as scrum-master for 3 months and contributed to team's success during Covid-19 pandemic.
+
 * Application Engineer Intern, Intel Corporation, Munich, Germany, _10/2013 - 01/2015_
   * Worked on integrating Transactional Synchronization Extensions (Intel <sup>R</sup>
 TSX) into SAP<sup>R</sup>
