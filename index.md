@@ -17,6 +17,7 @@ Koc University in Istanbul. During my PhD studies, I was lucky
 to be advised by [Assist. Prof. Didem Unat](http://home.ku.edu.tr/~dunat/).
 My research focused on designing  
 and improving algorithms and tools for detecting concurrency errors in parallel programs.    
+
 Further details about my work:
   * My Open-source projects are hosted on [GitHub](https://github.com/hassansalehe) but you can read more about them [here](projects).
   * You can access my research publications [here](publications).
