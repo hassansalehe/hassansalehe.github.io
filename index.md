@@ -20,7 +20,7 @@ designing and improving algorithms and tools for detecting concurrency
 errors in parallel programs.    
 
 Further details about my work:
-  * My Open-source projects are hosted on [GitHub](https://github.com/hassansalehe) but you can read more about them [here](projects).
+  * My Open-source projects are on [GitHub](https://github.com/hassansalehe), further details [here](projects).
   * You can access my research publications [here](publications).
   * My resume is in [this link](resume).
 
