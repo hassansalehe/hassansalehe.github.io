@@ -13,7 +13,7 @@ I previously worked on improving performance of race detection algorithms
 using Intel® TSX, and I was later interned at Intel in Munich for 1.5 years.
 
 Besides, I have a Ph.D of Computer Sciences and Engineering from  
-Koc University in Istanbul. During my PhD studies, I was lucky  
+Koc University in Istanbul. During my PhD studies, I had a privilege  
 to be advised by [Assist. Prof. Didem Unat](http://home.ku.edu.tr/~dunat/).
 My research focused on designing  
 and improving algorithms and tools for detecting concurrency errors in parallel programs.    
