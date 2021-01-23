@@ -42,12 +42,12 @@ Koc University, Istanbul, Turkey _2011 - 2013_  <!--  * GPA: 3.80/4.00-->
   * Worked on integrating Transactional Synchronization Extensions (Intel <sup>R</sup>
 TSX) into SAP<sup>R</sup>
 HANA, [achieving 2X speedup.](http://www.intel.com/content/www/us/en/big-data/sap-hana-real-time-analytics-solution-brief.html)
-  * Fostered Intel<sup>R</sup> TSX performance & analysis features in Intel Developer tools by feedback & evaluations.
-  * Developed a Python tool to automate analysis of Gigabytes of _log_ data for TSX performance bottlenecks.
-  * Volunteered to install CPU upgrades, recycling old servers, and applying security patches in a data center.
+  * Fostered Intel<sup>R</sup> TSX performance & analysis features in _Intel_ Developer tools by feedback & evaluations.
+  * Developed a _Python_ tool to automate analysis of Gigabytes of _log_ data for _TSX_ performance bottlenecks.
+  * Volunteered to install _CPU_ upgrades, recycling old servers, and applying security patches in a data center.
 
 * Software Engineer, Tiga Bilisim ve Medya Hizmetleri, Ankara, Turkey, _02/2011 - 09/2011_
-  * Designed and implemented ASP.NET MVC-based web application which received 50,000 successful Turkish scholarships applications worldwide on its first launch.
+  * Designed and implemented _ASP.NET MVC_-based web application which received 50,000 successful Turkish scholarships applications worldwide on its first launch.
   * Developed a web application to collect the most influential slogans for the
 general election campaigns.
   * Technologies used: _ASP.NET MVC_ (_C\#, Aspx, HTML, JavaScript_) & _SQL_.
