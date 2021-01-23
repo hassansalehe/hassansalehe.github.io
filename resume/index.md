@@ -50,10 +50,10 @@ HANA, [achieving 2X speedup.](http://www.intel.com/content/www/us/en/big-data/sa
   * Designed and implemented ASP.NET MVC-based web application which received 50,000 successful Turkish scholarships applications worldwide on its first launch.
   * Developed a web application to collect the most influential slogans for the
 general election campaigns.
-  * Technologies used: ASP.NET MVC (C\#, Aspx, HTML, _JavaScript_) & SQL.
+  * Technologies used: _ASP.NET MVC_ (_C\#, Aspx, HTML, JavaScript_) & _SQL_.
 
 * Software Architect &  Developer, Software-METU-Turkey Team, Ankara, Turkey, _05/2010 - 11/2010_
-  * Designed a Java application for automated construction of functional BioBricks from raw biological data available on the internet.
+  * Designed a _Java_ application for automated construction of functional BioBricks from raw biological data available on the internet.
     * The tool won a _Silver Award_ at _iGEM 2010_ competition at MIT in USA.
 
 ---
