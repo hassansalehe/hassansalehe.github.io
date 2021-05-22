@@ -6,7 +6,7 @@ title: Media - Hassan Salehe Matar
 I compile a list of media posts which mentioned or talked about me from TVs, newspapers, blogs,
 or any publications.
 
-#### A surprise pose with the Mayor of Sariyer, 2016
+#### A surprise pose with the Mayor of Sariyer, Istanbul, 2016
 I was walking along central Sariyer and the mayor was passing by. Link: [http://www.sariyerposta.com/surpriz-poz/](http://www.sariyerposta.com/surpriz-poz/)
 
 
